@@ -5,7 +5,6 @@ border: border-box;
 
 }
 .navbar{
-    height: 60px;
     background-color: #0f1111;
     color: white;
     display: flex;
@@ -49,7 +48,6 @@ border: border-box;
 .nav-search{
     display: flex;
     background-color: pink;
-    width: 620px;
     height: 40px;
     border-radius: 4px;
     justify-content: space-evenly;
@@ -104,7 +102,6 @@ span{
 }
 /** panel **/
 .panel{
-    height: 40px;
     background-color: #222f22;
     display: flex;
     color: white;
@@ -118,7 +115,6 @@ span{
    
 }
 .panel-ops{
-    width: 700;
     font-size: 0.85rem;
 }
 .panel-deal{
@@ -128,7 +124,6 @@ span{
 /** hero section **/
 .hero-section{
     background-image: url(hero_image.jpg);
-     height: 350px;
      background-size: cover;
      display: flex;
      justify-content: center;
@@ -157,9 +152,6 @@ span{
     background-color: #e2e7e6;
 }
 .box{
-    height: 400px;
-    
-    width: 23%;
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
@@ -198,12 +190,13 @@ footer{
     height: 25rem;
     display: flex;
     justify-content: space-evenly;
-    
    
 }
 ul{
     margin-top: 20px;
 }
+
+
 ul a{
     display: flex;
     font-size: 0.85rem;
